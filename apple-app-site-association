@@ -5,7 +5,7 @@
        {
            "appID": "7GYTV47N3G.ru.profibackoffice.reactnative",
            "paths": [
-           "/support/*"
+           "*"           
            ]
        }
    }
