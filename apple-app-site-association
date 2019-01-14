@@ -2,11 +2,12 @@
    "applinks": {
        "apps": [],
        "details": [
-       {
-           "appID": "8S2YNYCF9J.ru.profibackoffice.reactnative",
-           "paths": [
-           "*"           
-           ]
-       }
+          {
+              "appID": "8S2YNYCF9J.ru.profibackoffice.reactnative",
+              "paths": [
+              "*"           
+              ]
+          }
+       ]
    }
 }
